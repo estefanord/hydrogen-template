@@ -118,6 +118,7 @@ export default function App() {
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <Meta />
         <Links />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8751314002692983" crossorigin="anonymous"></script>
       </head>
       <body>
         <Layout {...data}>
@@ -152,6 +153,7 @@ export function ErrorBoundary() {
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <Meta />
         <Links />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8751314002692983" crossorigin="anonymous"></script>
       </head>
       <body>
         <Layout {...rootData}>
