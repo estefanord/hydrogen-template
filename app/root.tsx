@@ -119,7 +119,6 @@ export default function App() {
         <Meta />
         <Links />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8751314002692983" crossorigin="anonymous"></script>
-        <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPXTDZR4HK"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
@@ -163,7 +162,6 @@ export function ErrorBoundary() {
         <Meta />
         <Links />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8751314002692983" crossorigin="anonymous"></script>
-              <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPXTDZR4HK"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
